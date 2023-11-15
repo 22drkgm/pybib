@@ -14,11 +14,10 @@ This project provides a Python script (`pybib.py`) that takes a CSV file contain
 
 ## Usage
 
-1. Clone the repository:
+Clone the repository:
 
    git clone https://github.com/your-username/pybib.git
    cd pybib
-
 
 ##Example 
        python pybib.py --csv your_file.csv
@@ -26,4 +25,4 @@ This project provides a Python script (`pybib.py`) that takes a CSV file contain
 ##Configuration
 You can customize the output file name in the save_bibtex_entries function within pybib.py.
 Dependencies
-requests: Used for making HTTP requests.
+##requests: Used for making HTTP requests.
