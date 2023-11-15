@@ -11,7 +11,7 @@ Working with LaTeX documents often involves managing bibliographic references, a
 1. Install the required dependencies:
   
        pip install -r requirements.txt
- or 
+
 
 2. Run the script with a DOI to generate a .bib file:
 bash
